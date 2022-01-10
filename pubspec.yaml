@@ -35,6 +35,7 @@ dependencies:
   tuple: ^1.0.3
   flutter_cipher: ^0.0.3
   http_client_helper: ^0.2.1
+  dio: ^3.0.10
 
 dev_dependencies:
   flutter_test:
